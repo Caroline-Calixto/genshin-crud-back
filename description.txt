@@ -1,2 +1,2 @@
-Este projeto será desenvolvido utilizando as tecnologias REACT, FIRESTORE e JAVA;
+Este projeto será desenvolvido utilizando as tecnologias REACT, FIRESTORE e NODEJS;
 O objetivo é exercitar a elabooração de um CRUD (create, read, update, delete);

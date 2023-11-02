@@ -1,0 +1,596 @@
+{
+    "personagens": [
+        {
+            "nome": "Albedo",
+            "conjunto": "Casca de sonhos",
+            "ampulheta": "%DEF",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": ["%DEF", "Dano Crítico", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Alhaitham",
+            "conjunto": "Sonhos Dourados",
+            "ampulheta": "Proficiencia",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": ["Dano Crítico", "Proficiência Elemental", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Arlequinno",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Ayaka",
+            "conjunto": "Heroi Invernal",
+            "ampulheta": "%ATQ",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": ["ATQ%", "Dano Crítico", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Ayato",
+            "conjunto": "Eco do Sacrificio, Profundezas do coração",
+            "ampulheta": "%ATQ",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": ["ATQ%", "Dano Crítico", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Baizhu",
+            "conjunto": "Concha tingida pelo mar",
+            "ampulheta": "Vida, Recarga de Energia",
+            "calice": "Vida",
+            "coroa": "Bonus de Cura",
+            "subStatus": ["Vida", "Recarga de Energia"]
+        },
+        {
+            "nome": "Barbara",
+            "conjunto": "Concha tingida pelo mar, Donzela Amada",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "Bonus de Cura",
+            "subStatus": ["Vida", "Recarga de Energia"]
+        },
+        {
+            "nome": "Beidou",
+            "conjunto": "Selo da Insulação",
+            "ampulheta": "%ATQ, Recarga de Energia",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": ["ATQ%", "Dano Crítico", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Bennett",
+            "conjunto": "Antigo Ritual Real",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Candace",
+            "conjunto": "Selo da Insulação",
+            "ampulheta": "Vida, Recarga de Energia",
+            "calice": "Vida",
+            "coroa": "Vida",
+            "subStatus": ["ATQ%", "Dano Crítico", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Charlotte",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Chevreuse",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Childe",
+            "conjunto": "Profundezas do coração",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Chiori",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Chongyun",
+            "conjunto": "Heroi Invernal",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Clorinde",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Collei",
+            "conjunto": "Memórias da floresta",
+            "ampulheta": "%ATQ, Recarga de Energia",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": ["Dano Crítico", "Proficiência Elemental", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Cyno",
+            "conjunto": "Trovão furioso",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Dehya",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Diluc",
+            "conjunto": "Chamas da Bruxa Carmesin",
+            "ampulheta": "%ATQ",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": []
+        },
+        {
+            "nome": "Diona",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Dori",
+            "conjunto": "Milelith, Selo da Insulação",
+            "ampulheta": "Recarga de Energia",
+            "calice": "Vida",
+            "coroa": "Vida",
+            "subStatus": ["Vida", "Recarga de Energia"]
+        },
+        {
+            "nome": "Emilie",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Eula",
+            "conjunto": "Chama Pálida",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Faruzan",
+            "conjunto": "Antigo Ritual Real, Sombra Verde",
+            "ampulheta": "Recarga de Energia",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": ["Dano Crítico", "Proficiência Elemental", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Fischl",
+            "conjunto": "Sonhos Dourados, Trovão furioso, Trupe dourada",
+            "ampulheta": "%ATQ, Proficiencia",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": ["Dano Crítico", "Proficiência Elemental", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Focalors",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Freminet",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Ganyu",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Gorou",
+            "conjunto": "Antigo Ritual Real, Selo da Insulação",
+            "ampulheta": "Recarga de Energia",
+            "calice": "%DEF",
+            "coroa": "%DEF",
+            "subStatus": ["%DEF", "Dano Crítico", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Heizou",
+            "conjunto": "Sombra Verde",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Hu Tao",
+            "conjunto": "Chamas da Bruxa Carmesin",
+            "ampulheta": "Vida",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": ["Vida", "Dano Crítico", "Proficiência Elemental", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Itto",
+            "conjunto": "Casca de sonhos",
+            "ampulheta": "%ATQ",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": ["%DEF", "Dano Crítico", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Jean",
+            "conjunto": "Sombra Verde",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Kaeya",
+            "conjunto": "Selo da Insulação",
+            "ampulheta": "%ATQ",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": ["ATQ%", "Dano Crítico", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Kaveh",
+            "conjunto": "Flor do paraíso perdido",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Kazuha",
+            "conjunto": "Sombra Verde",
+            "ampulheta": "Proficiencia",
+            "calice": "Proficiencia",
+            "coroa": "Proficiencia",
+            "subStatus": []
+        },
+        {
+            "nome": "Keqing",
+            "conjunto": "Trovão furioso",
+            "ampulheta": "%ATQ, Proficiencia",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": ["ATQ%", "Dano Crítico", "Recarga de Energia", "Taxa Crítica"]
+        },
+        {
+            "nome": "Kirara",
+            "conjunto": "Milelith",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Klee",
+            "conjunto": "Chamas da Bruxa Carmesin",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Kokomi",
+            "conjunto": "Concha tingida pelo mar",
+            "ampulheta": "Vida",
+            "calice": "Vida",
+            "coroa": "Bonus de Cura",
+            "subStatus": []
+        },
+        {
+            "nome": "Kuki Shinobu",
+            "conjunto": "Flor do paraíso perdido, Sonhos Dourados",
+            "ampulheta": "Proficiencia",
+            "calice": "Proficiencia",
+            "coroa": "Proficiencia",
+            "subStatus": ["Vida", "Proficiência Elemental", "Recarga de Energia"]
+        },
+        {
+            "nome": "Layla",
+            "conjunto": "Milelith",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+        },
+        {
+            "nome": "Lion Boy"
+          },
+          {
+            "nome": "Lisa",
+            "conjunto": "Trovão furioso",
+            "ampulheta": "%ATQ",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": "ATQ%, Dano Crítico, Recarga de Energia, Taxa Crítica"
+          },
+          {
+            "nome": "Lynette",
+            "conjunto": "Sombra Verde"
+          },
+          {
+            "nome": "Lyney",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+          },
+          {
+            "nome": "Mika",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+          },
+          {
+            "nome": "Mona",
+            "conjunto": "Selo da Insulação"
+          },
+          {
+            "nome": "Murata",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+          },
+          {
+            "nome": "Nahida",
+            "conjunto": "Memórias da floresta",
+            "ampulheta": "Proficiencia",
+            "calice": "Proficiencia",
+            "coroa": "Proficiencia",
+            "subStatus": "ATQ%, Dano Crítico, Proficiência Elemental, Recarga de Energia, Taxa Crítica"
+          },
+          {
+            "nome": "Navia (taylor swift)",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+          },
+          {
+            "nome": "Neuvillette",
+            "conjunto": "Caçador das Sombras"
+          },
+          {
+            "nome": "Nilou",
+            "conjunto": "Flor do paraíso perdido"
+          },
+          {
+            "nome": "Ningguang",
+            "conjunto": "Pedra Arcaica",
+            "ampulheta": "%ATQ",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": "ATQ%, Dano Crítico, Recarga de Energia, Taxa Crítica"
+          },
+          {
+            "nome": "Noelle",
+            "conjunto": "Casca de sonhos"
+          },
+          {
+            "nome": "Qiqi",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+          },
+          {
+            "nome": "Raiden Shogun",
+            "conjunto": "Selo da Insulação",
+            "ampulheta": "%ATQ, Recarga de Energia",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": "ATQ%, Dano Crítico, Recarga de Energia, Taxa Crítica"
+          },
+          {
+            "nome": "Razor",
+            "conjunto": "Chama Pálida",
+            "ampulheta": "%ATQ",
+            "calice": "Bônus de Dano Físico",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": "ATQ%, Dano Crítico, Recarga de Energia, Taxa Crítica"
+          },
+          {
+            "nome": "Redentora das nuvens",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+          },
+          {
+            "nome": "Rosaria",
+            "conjunto": "Heroi Invernal"
+          },
+          {
+            "nome": "Sara",
+            "conjunto": "Antigo Ritual Real, Selo da Insulação",
+            "ampulheta": "%ATQ",
+            "calice": "Recarga de energia",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": "ATQ%, Dano Crítico, Recarga de Energia, Taxa Crítica"
+          },
+          {
+            "nome": "Sayu",
+            "conjunto": "Sombra Verde"
+          },
+          {
+            "nome": "Scaramouche",
+            "conjunto": "Cronicas do plavilhão do deserto",
+            "ampulheta": "%ATQ",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico"
+          },
+          {
+            "nome": "Shenhe",
+            "conjunto": "Reminiscência Nostálgica",
+            "ampulheta": "%ATQ",
+            "calice": "%ATQ",
+            "coroa": "%ATQ"
+          },
+          {
+            "nome": "Sigewinne",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+          },
+          {
+            "nome": "Sucrose",
+            "conjunto": "Sombra Verde"
+          },
+          {
+            "nome": "Thoma",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+          },
+          {
+            "nome": "Tighnari",
+            "conjunto": "Memórias da floresta, Sonhos Dourados",
+            "ampulheta": "%ATQ, Proficiencia",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": "ATQ%, Proficiência Elemental, Recarga de Energia"
+          },
+          {
+            "nome": "Venti",
+            "conjunto": "Sombra Verde"
+          },
+          {
+            "nome": "Wriothesley",
+            "conjunto": "Heroi Invernal"
+          },
+          {
+            "nome": "Xiangling",
+            "conjunto": "Selo da Insulação"
+          },
+          {
+            "nome": "Xiao",
+            "conjunto": "Alem da vida",
+            "ampulheta": "%ATQ",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico"
+          },
+          {
+            "nome": "Xingqiu",
+            "conjunto": "Antigo Ritual Real",
+            "ampulheta": "%ATQ",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico"
+          },
+          {
+            "nome": "Xinyan",
+            "conjunto": "",
+            "ampulheta": "",
+            "calice": "",
+            "coroa": "",
+            "subStatus": []
+          },
+          {
+            "nome": "Yae Miko",
+            "conjunto": "Trovão furioso",
+            "ampulheta": "%ATQ",
+            "calice": "Elemental",
+            "coroa": "Taxa/Dano Cítico",
+            "subStatus": "ATQ%, Dano Crítico, Proficiência Elemental, Recarga de Energia, Taxa Crítica"
+          },
+          {
+            "nome": "Yanfei",
+            "conjunto": "Chamas da Bruxa Carmesin"
+          },
+          {
+            "nome": "YaoYao",
+            "conjunto": "Memórias da floresta, Milelith",
+            "ampulheta": "Vida, Recarga de Energia",
+            "calice": "Vida",
+            "coroa": "Bonus de Cura"
+          },
+          {
+            "nome": "Yelan",
+            "conjunto": "Selo da Insulação",
+            "ampulheta": "Vida",
+            "calice": "Vida",
+            "coroa": "Vida"
+          },
+          {
+            "nome": "Yoimiya",
+            "conjunto": "Reminiscência Nostálgica"
+          },
+          {
+            "nome": "Yun Jin",
+            "conjunto": "Casca de sonhos, Selo da Insulação",
+            "ampulheta": "Recarga de Energia",
+            "calice": "%DEF",
+            "coroa": "%DEF, Taxa/Dano Cítico",
+            "subStatus": "%DEF, Dano Crítico, Recarga de Energia, Taxa Crítica"
+          },
+          {
+            "nome": "Zhongli",
+            "conjunto": "Milelith",
+            "ampulheta": "Vida",
+            "calice": "Vida",
+            "coroa": "Vida"
+          }
+    ]
+}
